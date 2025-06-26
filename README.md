@@ -8,7 +8,7 @@ A [Hyprlock](https://github.com/hyprwm/hyprlock) theme, designed to match my pre
 The Dark Orchid Theme is a cohesive visual ecosystem built around the striking color purple. Centered on the rich Dark Orchid shade, it highlights purple's depth, creativity, and elegance. Through balanced contrasts and unified tones, the theme creates a bold yet harmonious aesthetic that stands out across any design.
 
 ## Usage
-1. Copy the file [Theme file](./dark-orchid-hyprlock.conf) to your Hyprland config directory. Probably `~/.config/hypr`.
+1. Copy the file [Theme file](./dark-orchid-hyprlock.conf) to your Hyprlock config directory. Probably `~/.config/hypr`.
 2. Add `source = ~/.config/hypr/dark-orchid-hyprlock.conf` to your Hyprland config
 3. Use it inside your Hyprland config
 
